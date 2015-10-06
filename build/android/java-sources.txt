@@ -1,0 +1,8 @@
+"C:/Users/abonsignore/Documents/Appcelerator_Studio_Workspace/ShoppingList/build/android/gen/android/support/v7/appcompat/R.java"
+"C:/Users/abonsignore/Documents/Appcelerator_Studio_Workspace/ShoppingList/build/android/gen/com/vinny/shoppinglist/ApplicationStylesheet.java"
+"C:/Users/abonsignore/Documents/Appcelerator_Studio_Workspace/ShoppingList/build/android/gen/com/vinny/shoppinglist/AssetCryptImpl.java"
+"C:/Users/abonsignore/Documents/Appcelerator_Studio_Workspace/ShoppingList/build/android/gen/com/vinny/shoppinglist/R.java"
+"C:/Users/abonsignore/Documents/Appcelerator_Studio_Workspace/ShoppingList/build/android/gen/com/vinny/shoppinglist/ShoppinglistActivity.java"
+"C:/Users/abonsignore/Documents/Appcelerator_Studio_Workspace/ShoppingList/build/android/gen/com/vinny/shoppinglist/ShoppinglistAppInfo.java"
+"C:/Users/abonsignore/Documents/Appcelerator_Studio_Workspace/ShoppingList/build/android/gen/com/vinny/shoppinglist/ShoppinglistApplication.java"
+"C:/Users/abonsignore/Documents/Appcelerator_Studio_Workspace/ShoppingList/build/android/gen/ti/modules/titanium/ui/R.java"
